@@ -11,7 +11,8 @@ Please check out my system here: https://github.com/totaldekadens/Inventory-syst
 ![Desktop - Overview](https://github.com/totaldekadens/Inventory-System---Design/assets/90898648/2b4bbf8c-c379-4893-909b-a5d74687f70b)
 
 ### Article view
-![Desktop - Article view](https://github.com/totaldekadens/Inventory-System---Design/assets/90898648/cdc053cc-fb85-4683-bdcd-ddd1fbc7f82c)
+![DesktopArticleview](https://github.com/totaldekadens/Inventory-System---Design/assets/90898648/7c7b4f6d-b82a-4c0e-aaa6-07801b6db372)
+
 
 
 
