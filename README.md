@@ -11,7 +11,8 @@ Please check out my system here: https://github.com/totaldekadens/Inventory-syst
 ![Desktop - Overview](https://github.com/totaldekadens/Inventory-System---Design/assets/90898648/2b4bbf8c-c379-4893-909b-a5d74687f70b)
 
 ### Article view
-![Desktop - Article view](https://github.com/totaldekadens/Inventory-System---Design/assets/90898648/41758d11-3ad9-4b49-9c35-576d12d92ec3)
+![Desktop - Article view](https://github.com/totaldekadens/Inventory-System---Design/assets/90898648/cdc053cc-fb85-4683-bdcd-ddd1fbc7f82c)
+
 
 
 ## Sneak peak - Mobile
@@ -24,13 +25,16 @@ Please check out my system here: https://github.com/totaldekadens/Inventory-syst
 
 
 ### Article view
-![Article view](https://github.com/totaldekadens/Inventory-System---Design/assets/90898648/188bfbc7-7f91-4c57-980f-cb51f456d512)
+![Article view](https://github.com/totaldekadens/Inventory-System---Design/assets/90898648/cd3928c1-149f-4284-968f-1922b58a980d)
+
 
 ### Article edit
-![Article Edit](https://github.com/totaldekadens/Inventory-System---Design/assets/90898648/4354c6c3-e34a-4758-aff7-760e35f30756)
+![Article Edit](https://github.com/totaldekadens/Inventory-System---Design/assets/90898648/9e0f42ac-2909-4ed1-a7c0-3417a6d950d6)
+
 
 ### Article create
-![Article - Create](https://github.com/totaldekadens/Inventory-System---Design/assets/90898648/9a090cb8-dcb7-4070-9d18-608a0dd03117)
+![Article - Create](https://github.com/totaldekadens/Inventory-System---Design/assets/90898648/b9bcbd94-0da9-4b06-a242-ad0f2321524f)
+
 
 ### Handle inventory locations
 ![Inventory locations](https://github.com/totaldekadens/Inventory-System---Design/assets/90898648/ea7a8bff-581c-4123-9833-adf79b4c68e5)
