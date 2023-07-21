@@ -39,7 +39,12 @@ With history
 ![Front page](https://github.com/totaldekadens/Inventory-System---Design/assets/90898648/13dbabbb-f119-4b93-9193-c1f2d54796b3)
 
 ### Overview
-![Overview](https://github.com/totaldekadens/Inventory-System---Design/assets/90898648/f15f2e71-4170-4dd4-9a49-3b709ba6116f)
+
+![Overview](https://github.com/totaldekadens/Inventory-System---Design/assets/90898648/9e017371-8607-42ba-9e7b-7a59d079c919)
+![Overview - Swipe delete](https://github.com/totaldekadens/Inventory-System---Design/assets/90898648/93bb5361-b490-4676-8d80-d38a9ee4dd38)
+![Overview - Swipe delete-1](https://github.com/totaldekadens/Inventory-System---Design/assets/90898648/7d97b91a-1c97-48ab-9680-a898a83a3bf4)
+
+
 
 
 ### Article view
