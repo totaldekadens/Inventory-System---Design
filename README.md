@@ -22,10 +22,11 @@ Small
 ### Article view
 
 Without history
-![DesktopArticleview](https://github.com/totaldekadens/Inventory-System---Design/assets/90898648/e01e6c15-7e7b-41f1-862d-126a26292d14)
+![Desktop - Article view](https://github.com/totaldekadens/Inventory-System---Design/assets/90898648/826ae10a-e565-4342-9b03-61f7cc042090)
 
 With history
-![Desktop - Article view2](https://github.com/totaldekadens/Inventory-System---Design/assets/90898648/7a93beea-efbc-407c-9f12-0da69694d579)
+![Desktop - Article view with history](https://github.com/totaldekadens/Inventory-System---Design/assets/90898648/ba74d221-4819-4ad7-9aa6-cdf8eab7d574)
+
 
 
 
@@ -41,18 +42,31 @@ With history
 ### Overview
 
 ![Overview](https://github.com/totaldekadens/Inventory-System---Design/assets/90898648/9e017371-8607-42ba-9e7b-7a59d079c919)
-![Overview - Swipe delete](https://github.com/totaldekadens/Inventory-System---Design/assets/90898648/93bb5361-b490-4676-8d80-d38a9ee4dd38)
-![Overview - Swipe delete-1](https://github.com/totaldekadens/Inventory-System---Design/assets/90898648/7d97b91a-1c97-48ab-9680-a898a83a3bf4)
 
+
+Change quantity
+
+![Overview - Change qty](https://github.com/totaldekadens/Inventory-System---Design/assets/90898648/490d2375-08ef-4813-ad5f-e76158aa2429)
+
+Delete article
+
+![Overview - Swipe delete](https://github.com/totaldekadens/Inventory-System---Design/assets/90898648/e3c11c00-a64e-4e53-b9e5-e7210d639b1c)
+![Overview - Swipe delete-1](https://github.com/totaldekadens/Inventory-System---Design/assets/90898648/928a7051-3019-4ec5-b0fe-3e18f10d067c)
 
 
 
 ### Article view
-![Article view](https://github.com/totaldekadens/Inventory-System---Design/assets/90898648/cd3928c1-149f-4284-968f-1922b58a980d)
+![Article view](https://github.com/totaldekadens/Inventory-System---Design/assets/90898648/974bf667-6ccc-4ae6-b889-8974dd04f3be)
+
 
 
 ### Article edit
 ![Article Edit](https://github.com/totaldekadens/Inventory-System---Design/assets/90898648/9e0f42ac-2909-4ed1-a7c0-3417a6d950d6)
+
+
+Change quantity
+
+![Article Edit - change qty](https://github.com/totaldekadens/Inventory-System---Design/assets/90898648/7b238874-0768-42d4-ab07-380120e8c211)
 
 
 ### Article create
