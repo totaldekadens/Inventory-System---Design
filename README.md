@@ -7,6 +7,15 @@ Please check out my system here: https://github.com/totaldekadens/Inventory-syst
 
 ## Sneak peak - Desktop
 
+### Homepage
+
+Large
+![Desktop Large - Homepage](https://github.com/totaldekadens/Inventory-System---Design/assets/90898648/204fa23a-79b4-4fd2-ba5a-21e4737c1c16)
+
+Small
+![Desktop Small - Homepage](https://github.com/totaldekadens/Inventory-System---Design/assets/90898648/61d0a6b8-6feb-4945-a8a0-478f597fc621)
+
+
 ### Overview
 ![Desktop - Overview](https://github.com/totaldekadens/Inventory-System---Design/assets/90898648/2b4bbf8c-c379-4893-909b-a5d74687f70b)
 
